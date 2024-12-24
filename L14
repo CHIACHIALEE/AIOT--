@@ -1,7 +1,7 @@
 # 匯入 OpenCV 模組
 import cv2
 
-# 使用 cv2.imread 函數讀取圖片檔案 'demo.jpeg' 並轉換為灰階格式
+# 使用 cv2.imread 函數讀取圖片檔案 'demo.jpg' 並轉換為灰階格式
 frame = cv2.imread('demo.jpg', cv2.IMREAD_GRAYSCALE)
 
 # 使用 cv2.imshow 函數顯示讀取的灰階圖片
