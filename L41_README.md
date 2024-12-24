@@ -68,4 +68,4 @@ def index():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
-![Uploading 螢幕擷取畫面 2024-12-24 151450.png…]()
+![螢幕擷取畫面 2024-12-24 151450](https://github.com/user-attachments/assets/3c63ab44-f521-4c45-8f11-163c26d3642f)
