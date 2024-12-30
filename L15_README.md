@@ -16,4 +16,6 @@ picam2.capture_file("image.jpeg")
 
 # 停止攝影機
 picam2.stop()
-[image](https://github.com/user-attachments/assets/a0e019b6-c950-4931-878c-035e066783b6)
+
+![image](https://github.com/user-attachments/assets/c80c7fb9-99fb-4751-9c82-f0d7b0e571f6)
+
