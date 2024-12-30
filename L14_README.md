@@ -12,4 +12,5 @@ cv2.waitKey(0)
 
 # 使用 cv2.destroyAllWindows 函數關閉所有開啟的視窗
 cv2.destroyAllWindows()
-![demo](https://github.com/user-attachments/assets/f6f66641-ae3d-4877-9911-ecb4d510ad82)
+![螢幕擷取畫面 2024-12-30 202153](https://github.com/user-attachments/assets/9b975048-7b0a-4546-bef2-acb0f7398c7b)
+
