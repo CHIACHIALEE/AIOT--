@@ -30,4 +30,5 @@ frame = cv2.hconcat([frame, out])
 cv2.imshow('frame', frame)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-![demo](https://github.com/user-attachments/assets/2d329274-368d-40f4-92e0-ef5b5ade0f8c)
+![螢幕擷取畫面 2024-12-30 205436](https://github.com/user-attachments/assets/e40bcf4b-58c0-40f5-a540-4765e98932a2)
+
