@@ -37,4 +37,5 @@ img3 = cv2.resize(img3, (1024, int(1024 * ratio)))
 # 顯示匹配結果
 cv2.imshow('image', img3)
 cv2.waitKey(0)
-cv2.destroyAllWindows()![Uploading 截圖 2024-12-30 晚上8.33.34.png…]()
+cv2.destroyAllWindows()
+<img width="1196" alt="截圖 2024-12-30 晚上8 33 34" src="https://github.com/user-attachments/assets/69aa9d9c-13aa-468f-9819-369458ae43f5" />
