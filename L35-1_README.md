@@ -13,5 +13,4 @@ annotated_image = results[0].plot()
 cv2.imshow('YOLOv8 Detection', annotated_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-![螢幕擷取畫面 2024-12-30 205436](https://github.com/user-attachments/assets/0cd4eaeb-5df2-415b-9abe-a713166c723f)
-
+![螢幕擷取畫面 2024-12-30 205722](https://github.com/user-attachments/assets/8f11e8a7-65af-4546-95bc-39f9738af6eb)
