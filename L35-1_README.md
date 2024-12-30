@@ -13,4 +13,5 @@ annotated_image = results[0].plot()
 cv2.imshow('YOLOv8 Detection', annotated_image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-![Uploading demo.jpg…]()
+![demo](https://github.com/user-attachments/assets/f168b946-60b1-4a38-86eb-3d95b03b9989)
+
