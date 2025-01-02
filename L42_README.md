@@ -10,5 +10,6 @@ if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
 
 
+![20250102_21h46m05s_grim](https://github.com/user-attachments/assets/422abda7-5ec7-4f57-ad7c-3e5180da12fc)
 
-![20250102_22h20m12s_grim](https://github.com/user-attachments/assets/9561c014-93ca-4dfc-959d-bcd9cb308d67)
+
