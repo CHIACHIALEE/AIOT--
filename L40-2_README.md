@@ -15,6 +15,6 @@ for image_path in image_paths:
     cv2.imwrite(output_path, annotated_image)
     print(f"檢測完成，結果已保存至 {output_path}")
 
-    ![螢幕擷取畫面 2025-01-03 033829](https://github.com/user-attachments/assets/3d0f4596-6307-4641-a723-e69c7bb879b6)
 ![螢幕擷取畫面 2025-01-03 033840](https://github.com/user-attachments/assets/2a259a27-7d40-43ce-884d-89c7c72f78ff)
 ![螢幕擷取畫面 2025-01-03 033848](https://github.com/user-attachments/assets/850480cd-aa1a-4fa8-b590-e743c4030d69)
+![螢幕擷取畫面 2025-01-03 033829](https://github.com/user-attachments/assets/fa4fe78e-4a7a-42b0-ae3c-f74dad54aee2)
