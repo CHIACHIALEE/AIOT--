@@ -55,3 +55,8 @@ out.release()
 cv2.destroyAllWindows()
 
 print(f"處理完成！影片已保存到: {output_path}")
+
+
+
+https://github.com/user-attachments/assets/cbc515c3-21fa-4180-9bd0-993a0c83954b
+
