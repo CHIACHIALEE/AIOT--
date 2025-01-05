@@ -15,3 +15,4 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ![螢幕擷取畫面 2024-12-30 205722](https://github.com/user-attachments/assets/8f11e8a7-65af-4546-95bc-39f9738af6eb)
 ![螢幕擷取畫面 2025-01-04 132136](https://github.com/user-attachments/assets/dcddd7d7-4d4d-4f93-8ac5-5ad9ccdbb3e9)
+#「自定義 YOLOv8 模型的訓練」的部分，若要下載完全部的Epoch需要花27天，需要GPU加速才有能減少計算時間
